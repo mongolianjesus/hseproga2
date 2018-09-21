@@ -5,6 +5,6 @@
 
 __№__|__Описание__|__Ссылка на работу__
 ---|---|---
-__1__|Игра "Виселица"|[Код]()
+__1__|Игра "Виселица"|[Код](https://github.com/bravobaker/hseproga2/blob/master/hw1/hw_1.py)
 
 ![](https://imgs.xkcd.com/comics/git.png)
