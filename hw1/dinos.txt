@@ -1,0 +1,12 @@
+tyrannosaurus
+fossil
+carnivore
+triceratops
+jurassic
+ichthyosaur
+bipedal
+mosasaur
+diplodocus
+mesozoic
+extinction
+
