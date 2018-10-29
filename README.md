@@ -6,6 +6,5 @@
 __№__|__Описание__|__Ссылка на работу__
 ---|---|---
 __1__|Игра "Виселица"|[Код](https://github.com/bravobaker/hseproga2/blob/master/hw1/hw_1.py)
----|---|---
 __3__|Газета|[Архив](https://drive.google.com/drive/u/0/folders/1fMfqrWYmILNhKgxV3k_3gMbePRrAizOH) [Код](https://github.com/bravobaker/hseproga2/blob/master/hw3.ipynb)
 ![](https://imgs.xkcd.com/comics/git.png)
